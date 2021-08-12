@@ -1,6 +1,6 @@
 -------------create a new repository on the command line----------
 -----------------------------------------------------------------
-
+These changes make now.
 git init
 git config --global user.email "email"
 git config --global user.name "user name"
